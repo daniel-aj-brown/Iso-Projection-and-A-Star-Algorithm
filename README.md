@@ -11,3 +11,5 @@ The controls are as follows:
 - Raise and lower the currently selected tile by left and right clicking respectively
 - Move the tile to start the algorithm from to the highlighted tile by pressing the 'S' key.
 - Move the tile to end the algorithm at to the highlighted tile by pressing the 'E' key.
+
+Please ensure you have the Pygame module installed on your system before running this project.
